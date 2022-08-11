@@ -1,4 +1,4 @@
-# designparuz
+# StaycationApp
 
 A new Flutter project.
 
