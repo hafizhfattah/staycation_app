@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:staycationapp/BasicPage/ForgetPass.dart';
-import 'package:staycationapp/BasicPage/Login.dart';
-import 'package:staycationapp/BasicPage/Register.dart';
-import 'package:staycationapp/BasicPage/ResetPass.dart';
-import 'package:staycationapp/Splash/SplashOne.dart';
-import 'package:staycationapp/Splash/SplashThree.dart';
-import 'package:staycationapp/Splash/SplashTwo.dart';
+import 'package:staycation_app/BasicPage/ForgetPass.dart';
+import 'package:staycation_app/BasicPage/Login.dart';
+import 'package:staycation_app/BasicPage/Register.dart';
+import 'package:staycation_app/BasicPage/ResetPass.dart';
+import 'package:staycation_app/Splash/SplashOne.dart';
+import 'package:staycation_app/Splash/SplashThree.dart';
+import 'package:staycation_app/Splash/SplashTwo.dart';
 
 void main() {
   runApp(const MyApp());
