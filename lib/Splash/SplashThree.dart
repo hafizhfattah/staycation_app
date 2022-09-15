@@ -33,39 +33,39 @@ class SplashThree extends StatelessWidget {
                 padding: const EdgeInsets.only(top: 300),
                 child: ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).pushReplacementNamed('/Login');
+                    Navigator.of(context).pushReplacementNamed('/Register');
                   },
                   style: ElevatedButton.styleFrom(
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(50)),
                       fixedSize: const Size(300, 60),
-                      primary: Colors.white.withOpacity(0.8)),
+                      backgroundColor: Colors.black.withOpacity(0.8)),
                   child: const Text(
-                    'Login',
+                    'Register',
                     style: TextStyle(
                         fontSize: 20,
-                        color: Colors.black,
+                        color: Colors.white,
                         fontWeight: FontWeight.bold),
                   ),
                 ),
               ),
               const SizedBox(
-                height: 18,
+                height: 20.0,
               ),
               ElevatedButton(
                 onPressed: () {
-                  Navigator.of(context).pushReplacementNamed('/Register');
+                  Navigator.of(context).pushReplacementNamed('/Login');
                 },
                 style: ElevatedButton.styleFrom(
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(50)),
                     fixedSize: const Size(300, 60),
-                    primary: Colors.black.withOpacity(0.8)),
+                    backgroundColor: Colors.white.withOpacity(0.8)),
                 child: const Text(
-                  'Register',
+                  'Login',
                   style: TextStyle(
                       fontSize: 20,
-                      color: Colors.white,
+                      color: Colors.black,
                       fontWeight: FontWeight.bold),
                 ),
               ),

@@ -6,14 +6,15 @@ class SplashOne extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SafeArea(
-          child: GestureDetector(
+      body: GestureDetector(
         onTap: () {
           Navigator.of(context).pushReplacementNamed('/SplashTwo');
         },
         child: Stack(
           children: [
-            Image.network('https://picsum.photos/770/700',
+            Image.network('https://picsum.photos/1000',
+                height: double.maxFinite,
+                fit: BoxFit.cover,
                 filterQuality: FilterQuality.high),
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
@@ -31,7 +32,7 @@ class SplashOne extends StatelessWidget {
             )
           ],
         ),
-      )),
+      ),
     );
   }
 }

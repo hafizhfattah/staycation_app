@@ -1,16 +1,63 @@
-# staycation_app
+### 📦 **Staycation SimpleUI**
 
-A new Flutter project.
+Slicing StaycationApp From Figma Of My Team
+Made With Flutter
 
-## Getting Started
+### 📄 **Page Include**
+- SplashScreen 3 Page
+- Login Page
+- Register Page
+- Forget Password Page
+- Create New Password Page
 
-This project is a starting point for a Flutter application.
+### 🚀 **Getting Started**
+1. Clone this project || Download Zip from GitHub
+2. Run the project In Web or Emulator
 
-A few resources to get you started if this is your first Flutter project:
+### 📷 **Screenshots**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img
+    src="/assets/image1.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img
+    src="/assets/image2.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image3.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image4.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image5.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image6.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image7.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+    
+    
+
+    
