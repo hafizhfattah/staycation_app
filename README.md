@@ -1,7 +1,6 @@
-### 📦 **Staycation SimpleUI**
+### 📦 **Staycation App**
 
-Slicing StaycationApp From Figma Of My Team
-Made With Flutter
+Staycation App with Complete Auth Page
 
 ### 📄 **Page Include**
 - SplashScreen 3 Page
