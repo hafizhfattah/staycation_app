@@ -1,6 +1,6 @@
 ### 📦 **Staycation App**
 
-Staycation App with Complete Auth Page
+Staycation App with Complete Auth Page.
 
 ### 📄 **Page Include**
 - SplashScreen 3 Page
